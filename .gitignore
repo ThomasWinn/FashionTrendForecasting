@@ -1,4 +1,6 @@
 Images/
+Data/
+Mask_RCNN/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
